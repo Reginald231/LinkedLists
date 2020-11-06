@@ -1,0 +1,9 @@
+
+wpython:S1542"SRename function "tailInsert" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Í¦í‹şÿÿÿÿ8ÑÄäŠ°.
+Bpython:S125G"Remove this commented out code.(ûƒúéøÿÿÿÿ8”Ú‹°.
+vpython:S1542"RRename function "printVals" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Äé‹˜úÿÿÿÿ8¹îšå¯.
+opython:S1542"PRename function "getHead" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ßĞœÃ8È±¶å¯.
+tpython:S117"VRename this parameter "targetList" to match the regular expression ^[_a-z][a-z0-9_]*$.(±µµ8…Üå¯.
+rpython:S1542"SRename function "headInsert" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(±µµ8ÚÓ´å¯.
+qpython:S117"SRename this parameter "newNode" to match the regular expression ^[_a-z][a-z0-9_]*$.(±µµ8ÚÓ´å¯.
+Bpython:S125"Remove this commented out code.(êÖ¦³şÿÿÿÿ8ÏßÚ‹°.
